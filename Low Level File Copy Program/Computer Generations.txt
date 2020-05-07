@@ -1,0 +1,260 @@
+Computer Generations
+“Generation” in computer talk provides a framework for the growth of 
+computer industry based on the technologies developed. Originally, it was 
+used to distinguish between hardware technologies but was later 
+extended to include both hardware and software technologies.
+Computers are divided in five generations as follow: -
+First generation (1942-1955) -
+The early computers and others of the time were manufactured using 
+vacuum tubes as electronic switching device. A vacuum tube was a 
+fragile glass device using filaments as a source of electronics and could 
+control and amplify electronics signals. It was the only high-speed 
+electronic switching device available in those days. These vacuum tube 
+computers could perform computations in milliseconds were known as 
+first-generation computers.
+Most of the first generation computers worked on the principle of 
+storing program instructions along with data in memory of computer 
+(stored program concept) so that they could automatically execute a 
+program without human intervention. Memory of these computer used 
+electromagnetic relays, and users fed all the data and instructions into 
+the system using punched cards. Programmers wrote instructions in 
+machine and assembly languages because of lack of high-level 
+programming languages in those days. Since machine and assembly 
+languages are difficult to work with, only a few specialists understood 
+how to program these early computers.
+Characteristics features of first-generation computers are as follows:
+1.	They were the fastest calculating devices of their time.
+2.	They were too bulky in size, requiring large rooms for installation.
+3.	They used thousands of vacuum tubes that emitted large amount 
+of heat and burnt out frequently. Hence the rooms/areas in which 
+these computers were located had to be properly air-conditioned.
+4.	Each vacuum tube consumed about a watt of power. Since a 
+computer used more a ten thousand vacuum tubes, power 
+consumption of these computers was very high.
+5.	As vacuum tubes used filaments, they had a limited life. Because a 
+computer used thousands of vacuum tubes, these computers 
+were prone to frequent hardware failures.
+6.	Due to low mean time between failures, these computers required 
+constant maintenance.
+7.	In these computers, thousands of individual components were 
+assembled manually by hand into electric circuits. Hence, 
+commercial production of these computers was difficult and 
+costly.
+8.	Since these computers were difficult to program and use, they 
+had a limited commercial use.
+Second Generation (1955-1964)
+John Bardeen, William Shockley and Walter Brattain invented a new 
+electronic switching device called transistor at Bell Laboratories in 1947. 
+Transistors soon proved to be a better electronic switching device than 
+vacuum tubes.
+Second generation computers were manufactured using transistors. 
+They were more powerful, more reliable, less expensive, smaller and 
+cooler to operate than the first-generation computers.
+The second generation also experienced a change in storage technology. 
+Memory of second-generation computers was composed of magnetic 
+cores. Magnetic cores are small rigs made of ferrite that can be 
+magnetized in either clockwise or anti-clockwise direction. Large 
+random access memory (having storage capacity of few tens of 
+kilobytes) had several magnetic cores on a mesh of wires.
+In 1957, researchers introduced magnetic tape as a faster and more 
+convenient secondary storage medium. Later magnetic disk storage was 
+also developed and magnetic disk and magnetic tape were main 
+secondary storage media used in second generation computers. Users 
+still used punched cards widely for preparing and feeding programs and 
+data to a computer.
+On software front, high-level programming languages (like FORTRAN, 
+COBOL, ALGOL and SNOBOL.) and batch operating system emerged 
+during second generation. High-level programming languages made second-
+generation computers easier to program and use than first-generation 
+computer. Introduction of batch operating system helped in reducing 
+human intervention while processing, multiple jobs resulting in faster 
+processing, enhanced throughout and easier operation of second-
+generation computers.
+Characteristic features of second-generation computers are as follow:
+1.	They were more than ten times faster than the first-generation 
+computers.
+2.	They were smaller than first-generation computers and required 
+smaller space.
+3.	They consumed less power and dissipated less heat than the first-
+generation computers. The rooms/areas in which the second-
+generation computers were located still required air-conditioned.
+4.	They were more reliable and less prone to hardware failures than 
+the first-generation computers.
+5.	They had faster and larger primary and secondary storage as 
+compared to first-generation computers.
+6.	They were easier to program and use than the first-generation 
+computers. Hence, they had wider commercial use.
+7.	In these computers, thousands of individual transistors had to be 
+assembled manually by hand into electronic circuits making 
+commercial production of these computers difficult and costly.
+Third Generation (1964-1975)
+In 1958, Jack St. Clair Kilby and Robert Noyce invented the first 
+integrated circuits (called ICs) are circuits consisting of several 
+electronic components like transistors, resistors and capacitors grown 
+on a single chip of silicon eliminating wired interconnection between 
+components. IC technology was also known as “microelectronics” 
+technology.
+On software front, standardization of high-level programming languages, 
+timesharing operating systems, unbundling of software from hardware 
+and creation of an independent software industry happened during third 
+generation. FORTRAN and COBOL were the most popular programming 
+languages in those days. American National Standards Institute (ANSI) 
+standardized them in 1966 and 1968 respectively and the standardized 
+versions were called ANSI FORTRAN and ANSI COBOL. The idea was 
+that as long as a programmer follows those standards in program 
+writing, he/she could run his/her program on any computer with an ANSI 
+FORTRAN or ANSI COBOL compiler. Some more high-level programming 
+languages were introduced during the third-generation period. Notable 
+among these were PL/1, PASCAL and BASIC.
+Characteristic features of third-generation computer are as follow: 
+1.	They were more powerful than second-generation computers. 
+They were capable of performing about 1 million instructions per 
+second.
+2.	They were smaller than second-generation computers requiring 
+smaller space.
+3.	They consumed less power and dissipated less heat than second-
+generation computers.
+4.	They were more reliable and less prone to hardware failures than 
+second-generation computers requiring lower maintenance cost.
+5.	They had faster and larger primary and secondary storage as 
+compared to second-generation computers.
+6.	They were general-purpose machines suitable for both scientific 
+and commercial applications.
+7.	Standardization of high-level programming languages allowed 
+programs to be written for one computer to be easily ported to 
+and executed on another computer.
+8.	Timesharing operating system allowed interactive usage and 
+simultaneous use of these systems by multiple users.
+9.	Timesharing operating system helped in drastically improving the 
+productivity of programmers cutting down the time and cost of 
+program development by several fold.
+10.	Minicomputers of third-generation made computers affordable 
+even by smaller companies.
+Fourth Generation (1975-1989)
+Average number of electronic components packed on a silicon chip 
+doubled each year after 1965, which lead to creation of 
+microprocessor.
+By 1978, Apple II from Apple Computer Inc. and the TRS-80 model from 
+the Radio Shack Division of Tandy Corporation were dominant personal 
+computers. By 1980, IBM realized that the personal computer market 
+was too promising to ignore and came out with its own PC in 1981, 
+popularly known as IBM PC. Several other manufacturers used IBM’s 
+specification and designed their own PCs, popularly known as IBM 
+compatible PCs or clones. The IBM PC and its clones became a popular 
+standard for the PC industry during the fourth generation.
+Characteristic features of fourth-generation computers are as follow:
+1.	PCs were smaller and cheaper than mainframe or mainframes or 
+minicomputers of third generation.
+2.	Although the fourth-generation mainframes and supercomputers 
+required proper air-conditioning of the rooms/areas in which they 
+were located, no air air-conditioning was required for PCs.
+3.	They consumed less power than third-generation computers.
+4.	They were more reliable and less prone to hardware failures than 
+third-generation computers requiring negligible maintenance cost.
+5.	They had faster and larger primary and secondary storage as 
+compared to third-generation computers.
+6.	They were general-purpose machines.
+7.	Use of standard high-level programming languages allowed 
+programs written for one computer to be easily ported to and 
+executed on another computer.
+8.	Graphical user interface (GUI) enabled new users to quickly learn 
+how to use computers.
+9.	PC-based applications made PCs a powerful tool for both office 
+and home usage.
+10.	In addition to unbundled software, these systems also used add-on 
+hardware feature that allowed users to invest only in the 
+hardware configuration and software of their need and value.
+11.	PCs of fourth generation made computers affordable even by 
+individuals for their personal use at home.
+Fifth Generation (1989-Present)
+The trend of further miniaturization of electronic components, 
+dramatic increase in power of microprocessor chips and increase in 
+capacity of main memory and hard disk continued during fifth 
+generation. VLSI technology became ULSI technology in fifth generation 
+resulting in production of microprocessor chips having ten million 
+electric components. In fact, the speed of microprocessors and the 
+size of main memory and hard disk doubled almost every eighteen 
+months. As a result, many features found in the CPUs of large 
+mainframe systems of third and fourth generation systems became 
+part of microprocessor architecture in fifth generation. This ultimately 
+resulted in availability of very powerful and compact computers 
+becoming available at cheaper rates and death of traditional large 
+mainframe systems.
+Storage technology also advanced making larger main memory and disk 
+storage available in newly introduced systems. Currently, PCs having 4 
+or mare Gigabytes of main memory and 1 Terabytes and more of hard 
+disk capacity are common. RAID (Redundant Array of Inexpensive Disks) 
+technology enables configuration of a bunch of disks as a single large 
+disk. It, thus, supports larger disk space with better in-built reliability. 
+Optical Disks (popularly known as Compact Disks or CDs) emerged as a 
+popular portable mass storage media.
+The Internet emerged with associated technologies and applications. It 
+made it possible for computer users sitting access the globe to 
+communicate with each other within minutes by use of electronic mail 
+(known as e-mail) facility. A vast ocean of information became readily 
+available to computer users through the World Wide Web (known as 
+WWW). Moreover, several new types of exciting applications like 
+electronic commerce, virtual libraries, virtual classrooms, distance 
+education, etc. emerged during the period.
+In area of programming languages, concepts that gained popularity 
+during fifth-generation are JAVA programming language and parallel 
+programming libraries like MPI (Message Passing Interface) and PVM 
+(Parallel Virtual Machine). JAVA is used primarily on World Wide Web. It 
+supports Java-based applets allowing web pages to have dynamic 
+information and more interactivity with the users of web information. 
+MPI and PVM libraries enable development of standardized parallel 
+programs, so that a programmer can easily port and execute a parallel 
+program developed for one parallel computer on other parallel 
+computers. MSI is used for distributed memory parallel computers and 
+PVM is used for shared memory parallel computers.
+Characteristic features of fifth-generation computers are as follow:
+1.	Portable PCs (called notebook computers) are much smaller and 
+handy than PCs of fourth generation allowing users to use 
+computing facility even while travelling.
+2.	Fifth-generation desktop PCs and workstations are several times 
+more powerful than PCs of fourth generation.
+3.	Although fifth-generation mainframes and supercomputers require 
+proper air-conditioning is normally required for notebook 
+computers, desktop PCs and workstations.
+4.	They consume less power than their predecessors do.
+5.	They are more reliable and less prone to hardware failures than 
+their predecessors were, requiring negligible maintenance cost.
+6.	Many of the large-scale fifth-generation systems have hot-plug 
+feature that enables failed component to be replaced with a new 
+one without the need to shut down the system. Hence, the uptime 
+of these systems is very high.
+7.	They have faster and larger primary and secondary storage as 
+compared to their predecessors.
+8.	They are general-purpose machines.
+9.	Use of standard high-level programming languages allows programs 
+written for one computer to be easily ported to and executed on 
+another computer.
+10.	More user-friendly interfaces with multimedia features make the 
+systems easier to learn and use by anyone, including children.
+11.	Newer and more powerful applications, including multimedia 
+applications, make the system more useful in every occupation.
+12.	Explosion in size of internet coupled with Internet-based tools and 
+applications have made these systems influence the life of even 
+common people.
+13.	These systems also use the concept of unbundled software add-
+on hardware allowing the users to invest only in the hardware 
+configuration and software of their need and value.
+14.	With so many types of computers in all price ranges today, we 
+have a computer for almost any type of user whether the user 
+is a child or a world-fame scientist.
+
+
+
+
+
+
+
+
+Some representative systems of each generation
+ 
+
+
+1
+
+
+

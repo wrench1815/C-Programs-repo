@@ -58,7 +58,18 @@ dkms.conf
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+.vscode/tasks.json
 
 # Local History for Visual Studio Code
 .history/
+
+# Excluded files
 /Hello_C/Hello_C
+*.cbp
+*.depend
+*.layout
+bin
+obj
+Even-Odd_in_a_Range/doxygen/doxyfile
+String_Concatenate_2-to-1/doxygen/doxyfile
+structures_10(structure address to function)/doxygen/doxyfile
